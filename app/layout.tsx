@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      > Update
+      > Update the codebase for new addition
         {children}
       </body>
     </html>
