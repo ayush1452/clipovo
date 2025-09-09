@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      > updated the time filter for db queries
+      > tested new queries
         {children}
       </body>
     </html>
