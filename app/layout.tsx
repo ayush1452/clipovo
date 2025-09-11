@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      > tested new indexes creation
+      > rollback index creation
         {children}
       </body>
     </html>
