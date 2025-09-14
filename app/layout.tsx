@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      > add new query
+      > trying to use clickhouse ffor log enteries
         {children}
       </body>
     </html>
