@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      > trying to use clickhouse ffor log enteries
+      >  remove the slow query
         {children}
       </body>
     </html>
