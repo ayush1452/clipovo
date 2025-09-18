@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >  fixed query
+      >  added the switch button on the UI
         {children}
       </body>
     </html>
