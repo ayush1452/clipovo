@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >  added the switch button on the UI
+      >  added the backend functioning of the switch
         {children}
       </body>
     </html>
