@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >  added the backend functioning of the switch
+      >  fixed the lagging issue
         {children}
       </body>
     </html>
