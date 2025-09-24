@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >  refactored the old changes
+      >  added new select button and adding the limiter support
         {children}
       </body>
     </html>
