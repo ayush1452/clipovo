@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >  added new select button and adding the limiter support
+      >  added new docker image upgrade
         {children}
       </body>
     </html>
