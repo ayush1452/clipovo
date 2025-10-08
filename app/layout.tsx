@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >  added new doc update
+      >  refactor rest api
         {children}
       </body>
     </html>
