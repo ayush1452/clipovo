@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >  working on updating the infra code
+      >  new changes for updating the filtering in the code
         {children}
       </body>
     </html>
