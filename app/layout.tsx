@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >  fixed the slow queries issue
+      > issue with the frontend box
         {children}
       </body>
     </html>
