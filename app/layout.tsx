@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >  new issue fixed
+      >  fixed the slow queries issue
         {children}
       </body>
     </html>
