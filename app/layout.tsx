@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      > issue with the frontend box
+      > added the index feature box
         {children}
       </body>
     </html>
