@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      > merge effect added
+      > get the index issue alert
         {children}
       </body>
     </html>
