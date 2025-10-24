@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      > get the index issue alert
+      > new alert box added
         {children}
       </body>
     </html>
