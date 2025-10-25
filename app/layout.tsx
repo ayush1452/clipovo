@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      > new alert box added
+      > new frontend feature added and databse query update
         {children}
       </body>
     </html>
