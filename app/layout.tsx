@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      > added the checkbox for default and main settings
+      > adding chatbox feature
         {children}
       </body>
     </html>
