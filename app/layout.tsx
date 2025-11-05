@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      > added the version fix
+      > added the new navbar fonts and also a new button for reverse task
         {children}
       </body>
     </html>
